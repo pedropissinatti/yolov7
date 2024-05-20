@@ -1,0 +1,5 @@
+train: placas/images
+val: placas/images
+
+nc: 2  # número de classes
+names: ['classe0', 'classe1']  # ajuste os nomes conforme necessário
